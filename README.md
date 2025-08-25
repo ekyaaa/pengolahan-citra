@@ -1,2 +1,2 @@
-# pengolahan-citra-modul1
-Modul 1 - Pengantar Citra Digital dan Visi Komputer
+# PCVK_Ganjil_2025
+Berisi Project-project untuk praktikum mata kuliah PCVK Genap 20/21 JTI Polinema
